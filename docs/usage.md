@@ -9,3 +9,4 @@ Notes and usage details for ethereum-wallet-generator.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
