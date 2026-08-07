@@ -53,3 +53,4 @@ Notes and usage details for ethereum-wallet-generator.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
